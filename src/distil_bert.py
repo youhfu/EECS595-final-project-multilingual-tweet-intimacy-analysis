@@ -23,7 +23,7 @@ from tqdm.auto import tqdm, trange
 
 # import wandb
 
-# wandb.login(key="b34ec565fe361881c48406823160a53fd106b514")
+# wandb.login()
 
 # %%
 train_df = pd.read_csv("train.csv")
